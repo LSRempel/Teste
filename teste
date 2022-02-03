@@ -1,0 +1,1 @@
+$ alias vscode='winpty "C:\Users\lcstr\AppData\Local\Programs\Microsoft VS Code/Code.exe"'
