@@ -1,2 +1,2 @@
-$ alias vscode='winpty "C:\Users\lcstr\AppData\Local\Programs\Microsoft VS Code/Code.exe"'
-$ cd C:/Users/lcstr/rep_teste
+alias vscode='winpty "C:\Users\lcstr\AppData\Local\Programs\Microsoft VS Code/Code.exe"'
+cd C:/Users/lcstr/rep_teste
