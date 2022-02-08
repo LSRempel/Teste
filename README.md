@@ -1,4 +1,4 @@
 # Primeiro README
 
-![./temer.png]
+!(temer.png)
 Este repositório serve de exemplo
